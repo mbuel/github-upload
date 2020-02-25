@@ -1,0 +1,11 @@
+.banner {
+    position: absolute;
+    top: 0;
+    margin-left: 10%;
+    width: 60%;
+}
+.sidebar {
+    position: absolute;
+    left: 2%;
+    margin-top: 320px;
+}
